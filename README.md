@@ -49,7 +49,7 @@ return [
 To use this config file, simply:
 
 ```php
-require 'configs/database.php';
+$config = require 'configs/database.php';
 ```
 
 No need to parse Yaml! No need to parse Xml!
