@@ -1,0 +1,15 @@
+{
+    "name": "periwinkle/array-config",
+    "description": "Allows for using native PHP files as config files in PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kristopher Wilson",
+            "email": "kristopherwilson@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=3"
+    }
+}
+
