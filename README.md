@@ -1,7 +1,7 @@
 # periwinkle/array-config
 
-![](http://forthebadge.com/badges/built-with-love.svg)
-![](http://forthebadge.com/badges/ages-12.svg)
+[![](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com/)
+[![](http://forthebadge.com/badges/ages-12.svg)](http://forthebadge.com/)
 
 > Allows for using native PHP files as config files in PHP!
 
