@@ -89,6 +89,11 @@ will do; we suggest a `functions/` or `includes/` directory if you have one.
 Ping your favorite neighborhood framework developer, and tell them you want the
 ability to use native PHP config files in their projects!
 
+## Join the array party!
+
+- [PhpUnit/DbUnit Fixtures](https://github.com/mrkrstphr/dbunit-fixture-arrays): Provides
+support for native PHP array based fixtures for DbUnit.
+
 ## Seriously
 
 Yeah, I know you can just cache the result of the Yaml or Xml parsing so that it
