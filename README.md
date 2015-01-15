@@ -1,8 +1,5 @@
 # periwinkle/array-config
 
-[![](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com/)
-[![](http://forthebadge.com/badges/ages-12.svg)](http://forthebadge.com/)
-
 > Allows for using native PHP files as config files in PHP!
 
 Using YAML and XML as configuration scripts in PHP projects has become prolific. However, this comes with the overhead of having to validate, process, and convert
