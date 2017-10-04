@@ -25,11 +25,11 @@ Let's say you had a configuration file written in Yaml:
 
 ```yaml
 database:
-	driver: pgsql
-	host: localhost
-	name: awesomedb
-	user: awesomesauce
-	password: mustangSally
+  driver: pgsql
+  host: localhost
+  name: awesomedb
+  user: awesomesauce
+  password: mustangSally
 ```
 
 With periwinkle/array-config, you can now write this configuration file as pure PHP!
